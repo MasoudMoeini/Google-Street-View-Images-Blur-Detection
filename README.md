@@ -14,13 +14,16 @@ Generating ground-truth for blurred images<br/>
 <img width="639" alt="Screenshot 2022-07-01 at 08 21 44" src="https://user-images.githubusercontent.com/43514418/176836579-fddaed1b-8ab8-4a22-8b27-2858f7d5210f.png"> <br>
 <img width="767" alt="Screenshot 2022-07-01 at 08 21 24" src="https://user-images.githubusercontent.com/43514418/176836649-c17d9d6c-04cb-4aae-9c10-2141890e23fe.png"> <br>
 <br>
+- Input images <br/> 
 <img width="743" alt="Screenshot 2022-07-01 at 08 20 54" src="https://user-images.githubusercontent.com/43514418/176836771-0430e134-f992-41a9-bd50-e24778f8a7bf.png"> <br>
+- Predicted Labels <br/>
 <img width="741" alt="Screenshot 2022-07-01 at 08 20 00" src="https://user-images.githubusercontent.com/43514418/176836818-6eb64ba7-a8c7-48b2-993e-05f2036f8253.png"> <br>
+- Applying label to Input Images and high lighting blurred areas <br/>
 <img width="743" alt="Screenshot 2022-07-01 at 08 18 03" src="https://user-images.githubusercontent.com/43514418/176836909-91d520dd-0e64-45fc-b876-6396503c33b7.png"> <br>
+- Input images <br/> 
 <img width="744" alt="Screenshot 2022-07-01 at 08 20 24" src="https://user-images.githubusercontent.com/43514418/176836987-a3193000-d408-4c5d-9aea-9165eb8e2f6a.png"> <br>
 <img width="740" alt="Screenshot 2022-07-01 at 08 19 37" src="https://user-images.githubusercontent.com/43514418/176837046-1191dd81-790d-4cad-a8c1-ef0bbb975828.png"> <br>
 <img width="743" alt="Screenshot 2022-07-01 at 08 18 58" src="https://user-images.githubusercontent.com/43514418/176837094-2b5905e7-dd7b-4f69-9c34-1aeeb92ae199.png"> <br/>
-
 # Google Street View Images Blur Detection Web Application
 Click [here](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection-Web-Application)
 
