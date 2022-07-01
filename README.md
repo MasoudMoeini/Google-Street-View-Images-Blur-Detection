@@ -7,7 +7,7 @@ Original images from dataset
 Applying GaussianBlur filter to original images, randomly for different regions of images <br/>
 <img width="1088" alt="Screenshot 2022-06-16 at 22 29 26" src="https://user-images.githubusercontent.com/43514418/174158430-d5d81c7e-192b-48cc-88a4-70eabdca234b.png">
 Generating ground-truth for blurred images<br/>  
-<img width="1085" alt="Screenshot 2022-06-16 at 22 29 43" src="https://user-images.githubusercontent.com/43514418/174158476-56d6c248-0d27-413e-85b4-0b109895f396.png"><br/>
+<img width="1085" alt="Screenshot 2022-06-16 at 22 29 43" src="https://user-images.githubusercontent.com/43514418/174158476-56d6c248-0d27-413e-85b4-0b109895f396.png"> <br>
 # Training and Evaluation Results 
 <img width="772" alt="Screenshot 2022-07-01 at 08 22 05" src="https://user-images.githubusercontent.com/43514418/176836481-48330104-8cb3-42a9-b772-643cc09d960e.png"> <br>
 <img width="639" alt="Screenshot 2022-07-01 at 08 21 44" src="https://user-images.githubusercontent.com/43514418/176836579-fddaed1b-8ab8-4a22-8b27-2858f7d5210f.png"> <br>
@@ -17,7 +17,7 @@ Generating ground-truth for blurred images<br/>
 <img width="743" alt="Screenshot 2022-07-01 at 08 18 03" src="https://user-images.githubusercontent.com/43514418/176836909-91d520dd-0e64-45fc-b876-6396503c33b7.png"> <br>
 <img width="744" alt="Screenshot 2022-07-01 at 08 20 24" src="https://user-images.githubusercontent.com/43514418/176836987-a3193000-d408-4c5d-9aea-9165eb8e2f6a.png"> <br>
 <img width="740" alt="Screenshot 2022-07-01 at 08 19 37" src="https://user-images.githubusercontent.com/43514418/176837046-1191dd81-790d-4cad-a8c1-ef0bbb975828.png"> <br>
-<img width="743" alt="Screenshot 2022-07-01 at 08 18 58" src="https://user-images.githubusercontent.com/43514418/176837094-2b5905e7-dd7b-4f69-9c34-1aeeb92ae199.png">
+<img width="743" alt="Screenshot 2022-07-01 at 08 18 58" src="https://user-images.githubusercontent.com/43514418/176837094-2b5905e7-dd7b-4f69-9c34-1aeeb92ae199.png"> <br>
 # Google Street View Images Blur Detection Web Application
 Click [here](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection-Web-Application)
 
