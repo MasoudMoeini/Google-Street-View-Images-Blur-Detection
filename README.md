@@ -1,7 +1,13 @@
 # Google-Street-View-Images-Blur-Detection<br/>
 **Dataset:** <br/>
 - [UCF Google Street View dataset](https://www.crcv.ucf.edu/data/GMCP_Geolocalization/) contains 62,058 high quality Google Street View images, 10000 images is used to train and evaluate "Street View Images Blur Dtection Network - SVIBDN" <br/>
-<img width="712" alt="Screenshot 2022-06-17 at 11 32 07" src="https://user-images.githubusercontent.com/43514418/174271317-72bbe798-a503-48a1-9203-1257d5cf912d.png">
+Milestones:<br/>
+- Generating Google Street View Images Blur Dataset<br/>
+- Building Computer Vison Model for Street View Images Classification and Blurred Regions Segmentation <br/>
+- Evaluation <br/>
+- Using Implemented model in Production and Real World Web Application <br/>
+<img width="814" alt="Screenshot 2022-07-01 at 13 47 54" src="https://user-images.githubusercontent.com/43514418/176888886-76693f06-c7a4-49f9-b200-ec7c8b7aaf02.png">
+
 Original images from dataset
 <img width="1097" alt="Screenshot 2022-06-16 at 22 29 09" src="https://user-images.githubusercontent.com/43514418/174158395-51cd6eab-512e-4f54-b413-b1e7365fcc88.png">
 Applying GaussianBlur filter to original images, randomly for different regions of images <br/>
