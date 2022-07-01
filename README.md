@@ -1,7 +1,7 @@
 # Google-Street-View-Images-Blur-Detection
 **Dataset:**  <br/>
-- [UCF Google Street View dataset](https://www.crcv.ucf.edu/data/GMCP_Geolocalization/) contains 62,058 high quality Google Street View images, 10000 images is used to train and evaluate "Street View Images Blur Dtection Network - SVIBDN" <br>
-**Milestones:** <br/>
+[UCF Google Street View dataset](https://www.crcv.ucf.edu/data/GMCP_Geolocalization/) contains 62,058 high quality Google Street View images, 10000 images is used to train and evaluate "Street View Images Blur Dtection Network - SVIBDN" <br>
+**Milestones:  **   <br/>
 - Generating Google Street View Images Blur Dataset<br/>
 - Building Computer Vison Model for Street View Images Classification and Blurred Regions Segmentation <br/>
 - Evaluation <br/>
