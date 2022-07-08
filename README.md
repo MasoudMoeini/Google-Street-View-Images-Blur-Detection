@@ -21,6 +21,7 @@ Generating ground-truth for blurred images<br/>
 <img width="625" alt="Screenshot 2022-07-08 at 19 15 13" src="https://user-images.githubusercontent.com/43514418/178040073-16dee139-9507-4a2f-b60c-4cdac120a323.png"><br/>
 <img width="637" alt="Screenshot 2022-07-08 at 19 16 02" src="https://user-images.githubusercontent.com/43514418/178040129-65e81961-ee5c-4ee8-9ec4-3960370ec3f4.png"><br/>
 <img width="630" alt="Screenshot 2022-07-08 at 19 15 46" src="https://user-images.githubusercontent.com/43514418/178040192-8518bcac-d3f4-43a9-9ce2-217ea97a094f.png"> <br/>
+# Evaluation of Model with 1000 Images
 - Confusion Matrix <br/>
 <img width="431" alt="Screenshot 2022-07-08 at 19 16 31" src="https://user-images.githubusercontent.com/43514418/178040259-f96dd881-613e-470a-a2b3-9fd925dca5e7.png"> <br/>
 - Intersection over Union (IoU)<br/>
