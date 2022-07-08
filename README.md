@@ -8,6 +8,10 @@
 - Training and Evaluation <br/>
 - Using Implemented model in Production and Real World Web Application. [Click](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection-Web-Application) <br/>
 <img width="814" alt="Screenshot 2022-07-01 at 13 47 54" src="https://user-images.githubusercontent.com/43514418/176888886-76693f06-c7a4-49f9-b200-ec7c8b7aaf02.png"><br/>
+Total params: 79,826,048 <br/>
+Trainable params: 79,772,928 <br/>
+Non-trainable params: 53,120 <br/>
+# Generating Dataset
 Original images from dataset
 <img width="1097" alt="Screenshot 2022-06-16 at 22 29 09" src="https://user-images.githubusercontent.com/43514418/174158395-51cd6eab-512e-4f54-b413-b1e7365fcc88.png"> <br/>
 Applying GaussianBlur filter to original images, randomly for different regions of images <br/>
