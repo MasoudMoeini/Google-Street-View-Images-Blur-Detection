@@ -7,7 +7,7 @@
 - Building Computer Vison Model for Street View Images Classification and Blurred Regions Segmentation. [Click](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection/blob/main/New_SVIBDN.ipynb)<br/>
 - Training and Evaluation <br/>
 - Using Implemented model in Production and Real World Web Application. [Click](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection-Web-Application) <br/>
-<img width="814" alt="Screenshot 2022-07-01 at 13 47 54" src="https://user-images.githubusercontent.com/43514418/176888886-76693f06-c7a4-49f9-b200-ec7c8b7aaf02.png"><br/>
+<img width="813" alt="Screenshot 2022-07-08 at 21 04 54" src="https://user-images.githubusercontent.com/43514418/178056784-7267a4b0-1b51-47c8-80ec-ceceaf886bc6.png"><br/>
 Total params: 79,826,048 <br/>
 Trainable params: 79,772,928 <br/>
 Non-trainable params: 53,120 <br/>
@@ -18,12 +18,11 @@ Applying GaussianBlur filter to original images, randomly for different regions 
 <img width="1088" alt="Screenshot 2022-06-16 at 22 29 26" src="https://user-images.githubusercontent.com/43514418/174158430-d5d81c7e-192b-48cc-88a4-70eabdca234b.png"> <br/>
 Generating ground-truth for blurred images 
 <img width="1085" alt="Screenshot 2022-06-16 at 22 29 43" src="https://user-images.githubusercontent.com/43514418/174158476-56d6c248-0d27-413e-85b4-0b109895f396.png"><br/>
-# Training and Evaluation Results 
-<img width="1072" alt="Screenshot 2022-07-08 at 19 14 53" src="https://user-images.githubusercontent.com/43514418/178039917-089dae09-54ce-4667-b187-8586c1fb5253.png"><br/>
-<img width="622" alt="Screenshot 2022-07-08 at 19 15 28" src="https://user-images.githubusercontent.com/43514418/178039992-6cca958b-ef21-417f-8a87-c9c5e2f02f03.png"> <br/>
-<img width="625" alt="Screenshot 2022-07-08 at 19 15 13" src="https://user-images.githubusercontent.com/43514418/178040073-16dee139-9507-4a2f-b60c-4cdac120a323.png"><br/>
-<img width="637" alt="Screenshot 2022-07-08 at 19 16 02" src="https://user-images.githubusercontent.com/43514418/178040129-65e81961-ee5c-4ee8-9ec4-3960370ec3f4.png"><br/>
-<img width="630" alt="Screenshot 2022-07-08 at 19 15 46" src="https://user-images.githubusercontent.com/43514418/178040192-8518bcac-d3f4-43a9-9ce2-217ea97a094f.png"> <br/>
+# Training and Evaluation 
+<img width="551" alt="Screenshot 2022-07-08 at 21 15 52" src="https://user-images.githubusercontent.com/43514418/178056585-62415625-e395-4424-aec4-3c4e9558fe66.png">
+<br/>
+<img width="537" alt="Screenshot 2022-07-08 at 21 14 32" src="https://user-images.githubusercontent.com/43514418/178056620-3a3423b8-e431-428a-9706-2c89b7e86f00.png"><br/>
+<img width="537" alt="Screenshot 2022-07-08 at 21 11 07" src="https://user-images.githubusercontent.com/43514418/178056680-cedee277-22a7-49d5-af1d-558e163a0ed1.png"><br/>
 # Evaluation of Model with 1000 Images
 - Confusion Matrix <br/>
 <img width="431" alt="Screenshot 2022-07-08 at 19 16 31" src="https://user-images.githubusercontent.com/43514418/178040259-f96dd881-613e-470a-a2b3-9fd925dca5e7.png"> <br/>
