@@ -4,7 +4,7 @@
 <br>
 **Milestones:**  
 - Generating Google Street View Images Blur Dataset. [Click](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection/blob/main/google_street_view_images_generating_dataset.ipynb)<br/>
-- Building Computer Vison Model for Street View Images Classification and Blurred Regions Segmentation.[Click](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection/blob/main/New_SVIBDN.ipynb)<br/>
+- Building Computer Vison Model for Street View Images Classification and Blurred Regions Segmentation. [Click](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection/blob/main/New_SVIBDN.ipynb)<br/>
 - Evaluation <br/>
 - Using Implemented model in Production and Real World Web Application. [Click](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection-Web-Application) <br/>
 <img width="814" alt="Screenshot 2022-07-01 at 13 47 54" src="https://user-images.githubusercontent.com/43514418/176888886-76693f06-c7a4-49f9-b200-ec7c8b7aaf02.png"><br>
