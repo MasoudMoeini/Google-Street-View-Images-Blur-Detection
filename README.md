@@ -7,12 +7,10 @@
 - Building Computer Vison Model for Street View Images Classification and Blurred Regions Segmentation. [Click](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection/blob/main/New_SVIBDN.ipynb)<br/>
 - Training and Evaluation <br/>
 - Using Implemented model in Production and Real World Web Application. [Click](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection-Web-Application) <br/>
-<img width="810" alt="Screenshot 2022-07-08 at 21 28 25" src="https://user-images.githubusercontent.com/43514418/178058213-aa229f2c-5ea7-47a4-8564-839bdbaacaa1.png">
-<br/>
+<img width="810" alt="Screenshot 2022-07-08 at 21 28 25" src="https://user-images.githubusercontent.com/43514418/178058213-aa229f2c-5ea7-47a4-8564-839bdbaacaa1.png"> <br/>
 Total params: 79,826,048 <br/>
 Trainable params: 79,772,928 <br/>
-Non-trainable params: 53,120 <br/>
-<br>
+Non-trainable params: 53,120 
 # Generating Dataset
 Original images from dataset
 <img width="1097" alt="Screenshot 2022-06-16 at 22 29 09" src="https://user-images.githubusercontent.com/43514418/174158395-51cd6eab-512e-4f54-b413-b1e7365fcc88.png"> <br/>
