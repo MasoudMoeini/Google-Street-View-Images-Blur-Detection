@@ -12,6 +12,7 @@
 Total params: 79,826,048 <br/>
 Trainable params: 79,772,928 <br/>
 Non-trainable params: 53,120 <br/>
+<br>
 # Generating Dataset
 Original images from dataset
 <img width="1097" alt="Screenshot 2022-06-16 at 22 29 09" src="https://user-images.githubusercontent.com/43514418/174158395-51cd6eab-512e-4f54-b413-b1e7365fcc88.png"> <br/>
@@ -27,8 +28,7 @@ Generating ground-truth for blurred images
 - Confusion Matrix <br/>
 <img width="431" alt="Screenshot 2022-07-08 at 19 16 31" src="https://user-images.githubusercontent.com/43514418/178040259-f96dd881-613e-470a-a2b3-9fd925dca5e7.png"> <br/>
 - Intersection over Union (IoU)<br/>
-Average Intersection over Union for Blur Detection:  **0.917568**  <br/> 
-
+Average Intersection over Union for Blur Detection:  ** 0.917568 **    <br/> 
 - Input images <br/> 
 <img width="743" alt="Screenshot 2022-07-01 at 08 20 54" src="https://user-images.githubusercontent.com/43514418/176836771-0430e134-f992-41a9-bd50-e24778f8a7bf.png"> <br>
 - Predicted Labels <br/>
