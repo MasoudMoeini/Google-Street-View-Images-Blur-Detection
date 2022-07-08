@@ -16,10 +16,16 @@ Generating ground-truth for blurred images<br/>
 <img width="1085" alt="Screenshot 2022-06-16 at 22 29 43" src="https://user-images.githubusercontent.com/43514418/174158476-56d6c248-0d27-413e-85b4-0b109895f396.png"><br/>
 
 # Training and Evaluation Results 
-<img width="772" alt="Screenshot 2022-07-01 at 08 22 05" src="https://user-images.githubusercontent.com/43514418/176836481-48330104-8cb3-42a9-b772-643cc09d960e.png"> <br>
-<img width="639" alt="Screenshot 2022-07-01 at 08 21 44" src="https://user-images.githubusercontent.com/43514418/176836579-fddaed1b-8ab8-4a22-8b27-2858f7d5210f.png"> <br>
-<img width="767" alt="Screenshot 2022-07-01 at 08 21 24" src="https://user-images.githubusercontent.com/43514418/176836649-c17d9d6c-04cb-4aae-9c10-2141890e23fe.png"> <br>
-<br>
+<img width="1072" alt="Screenshot 2022-07-08 at 19 14 53" src="https://user-images.githubusercontent.com/43514418/178039917-089dae09-54ce-4667-b187-8586c1fb5253.png"><br/>
+<img width="622" alt="Screenshot 2022-07-08 at 19 15 28" src="https://user-images.githubusercontent.com/43514418/178039992-6cca958b-ef21-417f-8a87-c9c5e2f02f03.png"> <br/>
+<img width="625" alt="Screenshot 2022-07-08 at 19 15 13" src="https://user-images.githubusercontent.com/43514418/178040073-16dee139-9507-4a2f-b60c-4cdac120a323.png"><br/>
+<img width="637" alt="Screenshot 2022-07-08 at 19 16 02" src="https://user-images.githubusercontent.com/43514418/178040129-65e81961-ee5c-4ee8-9ec4-3960370ec3f4.png"><br/>
+<img width="630" alt="Screenshot 2022-07-08 at 19 15 46" src="https://user-images.githubusercontent.com/43514418/178040192-8518bcac-d3f4-43a9-9ce2-217ea97a094f.png"> <br/>
+- Confusion Matrix <br/>
+<img width="431" alt="Screenshot 2022-07-08 at 19 16 31" src="https://user-images.githubusercontent.com/43514418/178040259-f96dd881-613e-470a-a2b3-9fd925dca5e7.png"> <br/>
+- Intersection over Union (IoU)<br/>
+-Average Intersection over Union IoU for Blur Detection:  **0.917568**  <br/> 
+
 - Input images <br/> 
 <img width="743" alt="Screenshot 2022-07-01 at 08 20 54" src="https://user-images.githubusercontent.com/43514418/176836771-0430e134-f992-41a9-bd50-e24778f8a7bf.png"> <br>
 - Predicted Labels <br/>
