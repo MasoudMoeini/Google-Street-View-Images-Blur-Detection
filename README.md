@@ -26,7 +26,7 @@ Generating ground-truth for blurred images
 - Confusion Matrix <br/>
 <img width="431" alt="Screenshot 2022-07-08 at 19 16 31" src="https://user-images.githubusercontent.com/43514418/178040259-f96dd881-613e-470a-a2b3-9fd925dca5e7.png"> <br/>
 - Intersection over Union (IoU)<br/>
-Average Intersection over Union for Blur Detection:  ** 0.917568 **    <br/> 
+Average Intersection over Union for Blur Detection:  **0.917568**    <br/> 
 - Input images <br/> 
 <img width="743" alt="Screenshot 2022-07-01 at 08 20 54" src="https://user-images.githubusercontent.com/43514418/176836771-0430e134-f992-41a9-bd50-e24778f8a7bf.png"> <br>
 - Predicted Labels <br/>
@@ -38,7 +38,7 @@ Average Intersection over Union for Blur Detection:  ** 0.917568 **    <br/>
 <img width="740" alt="Screenshot 2022-07-01 at 08 19 37" src="https://user-images.githubusercontent.com/43514418/176837046-1191dd81-790d-4cad-a8c1-ef0bbb975828.png"> <br>
 <img width="743" alt="Screenshot 2022-07-01 at 08 18 58" src="https://user-images.githubusercontent.com/43514418/176837094-2b5905e7-dd7b-4f69-9c34-1aeeb92ae199.png"> <br/>
 # Google Street View Images Blur Detection Web Application
-Click [here](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection-Web-Application)
+To access Web Application repository and installation instruction click [here](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection-Web-Application)
 
 
 
