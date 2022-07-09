@@ -28,15 +28,15 @@ Generating ground-truth for blurred images
 - Intersection over Union -IoU- (Segmentation ) <br/>
 Average Intersection over Union for Blur Detection:  **0.917568**    <br/> 
 - Input images <br/> 
-<img width="743" alt="Screenshot 2022-07-01 at 08 20 54" src="https://user-images.githubusercontent.com/43514418/176836771-0430e134-f992-41a9-bd50-e24778f8a7bf.png"> <br>
-- Predicted Labels <br/>
-<img width="741" alt="Screenshot 2022-07-01 at 08 20 00" src="https://user-images.githubusercontent.com/43514418/176836818-6eb64ba7-a8c7-48b2-993e-05f2036f8253.png"> <br>
-- Applying label to Input Images and high lighting blurred areas <br/>
-<img width="743" alt="Screenshot 2022-07-01 at 08 18 03" src="https://user-images.githubusercontent.com/43514418/176836909-91d520dd-0e64-45fc-b876-6396503c33b7.png"> <br>
+<img width="1057" alt="Screenshot 2022-07-09 at 22 43 22" src="https://user-images.githubusercontent.com/43514418/178122159-69beb9bd-4126-4cb6-8786-ceb033795499.png"><br>
+- Predicted Labels and Classification results <br/>
+<img width="1058" alt="Screenshot 2022-07-09 at 22 44 54" src="https://user-images.githubusercontent.com/43514418/178122192-09b7fda9-1c7b-4e3d-bebb-8b3a4edcb87b.png"><br>
+- Applying predicted labels to Input Images and high lighting blurred areas <br/>
+<img width="1059" alt="Screenshot 2022-07-09 at 22 42 31" src="https://user-images.githubusercontent.com/43514418/178122256-d5857491-407c-47e5-b0ea-d84c1cea2bab.png"><br>
 - Input images <br/> 
-<img width="744" alt="Screenshot 2022-07-01 at 08 20 24" src="https://user-images.githubusercontent.com/43514418/176836987-a3193000-d408-4c5d-9aea-9165eb8e2f6a.png"> <br>
-<img width="740" alt="Screenshot 2022-07-01 at 08 19 37" src="https://user-images.githubusercontent.com/43514418/176837046-1191dd81-790d-4cad-a8c1-ef0bbb975828.png"> <br>
-<img width="743" alt="Screenshot 2022-07-01 at 08 18 58" src="https://user-images.githubusercontent.com/43514418/176837094-2b5905e7-dd7b-4f69-9c34-1aeeb92ae199.png"> <br/>
+<img width="1057" alt="Screenshot 2022-07-09 at 22 46 40" src="https://user-images.githubusercontent.com/43514418/178122277-c4781495-99f1-43ce-ad1c-ac056b8814c0.png"><br>
+<img width="1057" alt="Screenshot 2022-07-09 at 22 47 33" src="https://user-images.githubusercontent.com/43514418/178122297-165ad5e2-3d13-4219-9888-b9ed585b28c5.png"><br>
+<img width="1056" alt="Screenshot 2022-07-09 at 22 41 49" src="https://user-images.githubusercontent.com/43514418/178122332-40fd8058-f555-4c7d-be18-1f5dc4cfdb95.png"><br/>
 # Google Street View Images Blur Detection Web Application
 To access Web Application repository and installation instruction click [here](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection-Web-Application)
 
