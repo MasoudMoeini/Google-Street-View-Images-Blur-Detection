@@ -29,7 +29,7 @@ Generating ground-truth for blurred images
 Average Intersection over Union for Blur Detection:  **0.917568**    <br/> 
 - Input images <br/> 
 <img width="1057" alt="Screenshot 2022-07-09 at 22 43 22" src="https://user-images.githubusercontent.com/43514418/178122159-69beb9bd-4126-4cb6-8786-ceb033795499.png"><br>
-- Predicted Labels and Classification results <br/>
+- Predicted Labels and Classification results (0.0 bur, 1.0 no blur) <br/>
 <img width="1058" alt="Screenshot 2022-07-09 at 22 44 54" src="https://user-images.githubusercontent.com/43514418/178122192-09b7fda9-1c7b-4e3d-bebb-8b3a4edcb87b.png"><br>
 - Applying predicted labels to Input Images and high lighting blurred areas <br/>
 <img width="1059" alt="Screenshot 2022-07-09 at 22 42 31" src="https://user-images.githubusercontent.com/43514418/178122256-d5857491-407c-47e5-b0ea-d84c1cea2bab.png"><br>
