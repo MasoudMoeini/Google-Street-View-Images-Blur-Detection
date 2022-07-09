@@ -23,9 +23,9 @@ Generating ground-truth for blurred images
 <img width="537" alt="Screenshot 2022-07-08 at 21 14 32" src="https://user-images.githubusercontent.com/43514418/178056620-3a3423b8-e431-428a-9706-2c89b7e86f00.png">
 <img width="537" alt="Screenshot 2022-07-08 at 21 11 07" src="https://user-images.githubusercontent.com/43514418/178056680-cedee277-22a7-49d5-af1d-558e163a0ed1.png"><br/>
 # Evaluation of Model with 1000 Images
-- Confusion Matrix <br/>
+- Confusion Matrix (Classification) <br/>
 <img width="431" alt="Screenshot 2022-07-08 at 19 16 31" src="https://user-images.githubusercontent.com/43514418/178040259-f96dd881-613e-470a-a2b3-9fd925dca5e7.png"> <br/>
-- Intersection over Union (IoU)<br/>
+- Intersection over Union (Segmentation ) (IoU)<br/>
 Average Intersection over Union for Blur Detection:  **0.917568**    <br/> 
 - Input images <br/> 
 <img width="743" alt="Screenshot 2022-07-01 at 08 20 54" src="https://user-images.githubusercontent.com/43514418/176836771-0430e134-f992-41a9-bd50-e24778f8a7bf.png"> <br>
