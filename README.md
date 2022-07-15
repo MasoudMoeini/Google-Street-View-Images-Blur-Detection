@@ -18,7 +18,8 @@ Applying GaussianBlur filter to original images, randomly for different regions 
 <img width="1088" alt="Screenshot 2022-06-16 at 22 29 26" src="https://user-images.githubusercontent.com/43514418/174158430-d5d81c7e-192b-48cc-88a4-70eabdca234b.png"> <br/>
 Generating ground-truth for blurred images 
 <img width="1085" alt="Screenshot 2022-06-16 at 22 29 43" src="https://user-images.githubusercontent.com/43514418/174158476-56d6c248-0d27-413e-85b4-0b109895f396.png"><br/>
-# Training and Evaluation 
+# Training and Validation
+80% of the input photos(7000 images) were used for training, and 20% were utilized for validation. <br/>
 <img width="551" alt="Screenshot 2022-07-08 at 21 15 52" src="https://user-images.githubusercontent.com/43514418/178056585-62415625-e395-4424-aec4-3c4e9558fe66.png"><br/>
 <img width="537" alt="Screenshot 2022-07-08 at 21 14 32" src="https://user-images.githubusercontent.com/43514418/178056620-3a3423b8-e431-428a-9706-2c89b7e86f00.png">
 <img width="537" alt="Screenshot 2022-07-08 at 21 11 07" src="https://user-images.githubusercontent.com/43514418/178056680-cedee277-22a7-49d5-af1d-558e163a0ed1.png"><br/>
