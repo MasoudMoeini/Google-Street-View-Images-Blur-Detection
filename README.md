@@ -41,7 +41,13 @@ Average Intersection over Union for Blur Detection:  **0.917568**    <br/>
 <img width="1057" alt="Screenshot 2022-07-09 at 22 47 33" src="https://user-images.githubusercontent.com/43514418/178122297-165ad5e2-3d13-4219-9888-b9ed585b28c5.png"><br>
 <img width="1056" alt="Screenshot 2022-07-09 at 22 41 49" src="https://user-images.githubusercontent.com/43514418/178122332-40fd8058-f555-4c7d-be18-1f5dc4cfdb95.png"><br/>
 # Google Street View Images Blur Detection Web Application
-To access Web Application repository and installation instruction click [here](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection-Web-Application)
+To access Web Application repository and installation instruction click [here](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection-Web-Application) 
+<br>
+**Resources** 
+- [Keras-Computer Vision](https://keras.io/examples/vision/)
+- [ResNet50](https://machinelearningknowledge.ai/keras-implementation-of-resnet-50-architecture-from-scratch/)
+- [UCF Google Street View Images dataset](https://www.crcv.ucf.edu/data/GMCP_Geolocalization/)
+
 
 
 
