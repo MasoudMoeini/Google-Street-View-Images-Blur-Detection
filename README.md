@@ -44,10 +44,10 @@ Average Intersection over Union for Blur Detection:  **0.917568**    <br/>
 To access Web Application repository and installation instruction click [here](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection-Web-Application) 
 <br>
 # Resources
-- [Keras-Computer Vision](https://keras.io/examples/vision/)
+- [Keras - Computer Vision](https://keras.io/examples/vision/)
 - [ResNet50](https://machinelearningknowledge.ai/keras-implementation-of-resnet-50-architecture-from-scratch/)
 - [UCF Google Street View Images dataset](https://www.crcv.ucf.edu/data/GMCP_Geolocalization/)
-- [Flask Web Application](https://roytuts.com/upload-and-display-image-using-python-flask/)
+- [Flask Tutorial](https://roytuts.com/upload-and-display-image-using-python-flask/)
 
 
 
