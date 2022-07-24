@@ -17,7 +17,10 @@ Original images from dataset
 Applying GaussianBlur filter to original images, randomly for different regions of images <br/>
 <img width="1088" alt="Screenshot 2022-06-16 at 22 29 26" src="https://user-images.githubusercontent.com/43514418/174158430-d5d81c7e-192b-48cc-88a4-70eabdca234b.png"> <br/>
 Generating ground-truth for blurred images 
-<img width="1085" alt="Screenshot 2022-06-16 at 22 29 43" src="https://user-images.githubusercontent.com/43514418/174158476-56d6c248-0d27-413e-85b4-0b109895f396.png"><br/>
+<img width="1085" alt="Screenshot 2022-06-16 at 22 29 43" src="https://user-images.githubusercontent.com/43514418/174158476-56d6c248-0d27-413e-85b4-0b109895f396.png"><br>
+<img width="716" alt="Screenshot 2022-07-24 at 15 50 41" src="https://user-images.githubusercontent.com/43514418/180650227-125df3fc-a668-40e0-84d9-7b329b714fdc.png"><br/>
+<img width="717" alt="Screenshot 2022-07-24 at 15 50 57" src="https://user-images.githubusercontent.com/43514418/180650244-59ad59b0-e782-49a0-93f8-5ccc77381ac8.png"><br/>
+<img width="717" alt="Screenshot 2022-07-24 at 15 51 14" src="https://user-images.githubusercontent.com/43514418/180650265-c6f48f13-5767-4c73-9627-365798d615e3.png"><br>
 # Training and Validation
 The model was trained and validated by using 7000 input images. <br/>
 80% of the input photos were used for training, and 20% were utilized for validation. <br>
