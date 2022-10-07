@@ -43,7 +43,8 @@ Average Intersection over Union for Blur Detection:  **0.917568**    <br/>
 # Comparison with other State of Art Methods based-on Shi et al dataset
 <img width="388" alt="Screenshot 2022-10-07 at 12 01 03" src="https://user-images.githubusercontent.com/43514418/194530188-ea26f588-15aa-4ca4-bd0b-9f7aac33ab2b.png"><br/>
 <img width="361" alt="Screenshot 2022-10-07 at 12 01 19" src="https://user-images.githubusercontent.com/43514418/194530484-feb13a31-7ec2-419d-a0fe-b17ddf0dd7f9.png"><br/>
-<img width="811" alt="Screenshot 2022-10-07 at 12 09 04" src="https://user-images.githubusercontent.com/43514418/194530588-6220cbc7-8520-420f-99a7-1fea4cf6a79b.png">
+<img width="811" alt="Screenshot 2022-10-07 at 12 09 04" src="https://user-images.githubusercontent.com/43514418/194530588-6220cbc7-8520-420f-99a7-1fea4cf6a79b.png"><br>
+<img width="525" alt="Screenshot 2022-10-07 at 12 25 12" src="https://user-images.githubusercontent.com/43514418/194532958-9a6d0cb1-5455-499d-9dab-cb1846246691.png"><br>
 # Google Street View Images Blur Detection Web Application
 To access Web Application repository and installation instruction click [here](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection-Web-Application) 
 <br>
