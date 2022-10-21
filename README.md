@@ -46,7 +46,7 @@ Average Intersection over Union for Blur Detection:  **0.917568**    <br/>
 <img width="811" alt="Screenshot 2022-10-07 at 12 09 04" src="https://user-images.githubusercontent.com/43514418/194530588-6220cbc7-8520-420f-99a7-1fea4cf6a79b.png"><br>
 <img width="525" alt="Screenshot 2022-10-07 at 12 25 12" src="https://user-images.githubusercontent.com/43514418/194532958-9a6d0cb1-5455-499d-9dab-cb1846246691.png"><br>
 # Revised Street View Blure Detection dataset using object detection algorithm
-**Haar feature-based cascade classifiers**  Reference:[OpenCv](https://docs.opencv.org/3.4/dc/d88/tutorial_traincascade.html)<br>
+**Haar feature-based cascade classifiers**  [Ref](https://docs.opencv.org/3.4/dc/d88/tutorial_traincascade.html)<br>
 [Rastogi et al. 2019](https://link.springer.com/content/pdf/10.1007/s12206-019-0339-5.pdf)<br>
 <img width="846" alt="Screenshot 2022-10-21 at 12 14 16" src="https://user-images.githubusercontent.com/43514418/197180724-c03efb3f-2497-47f2-b11a-52c56a3cb777.png"> <br>
 Implementing Class Activation Map 
