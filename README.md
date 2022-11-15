@@ -7,7 +7,7 @@
 - Building Computer Vison Model for Street View Images Classification and Blurred Regions Segmentation. [Click](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection/blob/main/New_SVIBDN.ipynb)<br/>
 - Training and Evaluation <br/>
 - Using Implemented model in Production and Real World Web Application. [Click](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection-Web-Application) <br/>
-<img width="810" alt="Screenshot 2022-07-08 at 21 28 25" src="https://user-images.githubusercontent.com/43514418/178058213-aa229f2c-5ea7-47a4-8564-839bdbaacaa1.png"> <br/>
+<img width="814" alt="Screenshot 2022-11-15 at 16 15 35" src="https://user-images.githubusercontent.com/43514418/201982388-579780a4-e10d-416e-af94-c7f476c4d3f2.png"><br/>
 Total params: 79,826,048 <br/>
 Trainable params: 79,772,928 <br/>
 Non-trainable params: 53,120 
@@ -45,6 +45,7 @@ Average Intersection over Union for Blur Detection:  **0.917568**    <br/>
 <img width="361" alt="Screenshot 2022-10-07 at 12 01 19" src="https://user-images.githubusercontent.com/43514418/194530484-feb13a31-7ec2-419d-a0fe-b17ddf0dd7f9.png"><br/>
 <img width="811" alt="Screenshot 2022-10-07 at 12 09 04" src="https://user-images.githubusercontent.com/43514418/194530588-6220cbc7-8520-420f-99a7-1fea4cf6a79b.png"><br>
 <img width="525" alt="Screenshot 2022-10-07 at 12 25 12" src="https://user-images.githubusercontent.com/43514418/194532958-9a6d0cb1-5455-499d-9dab-cb1846246691.png"><br>
+<img width="884" alt="Screenshot 2022-11-15 at 18 07 26" src="https://user-images.githubusercontent.com/43514418/201982509-7d04eca2-2f7e-48c0-be0d-4dfccab851f0.png"><br>
 # Revised Street View Blure Detection dataset using object detection algorithm
 **Haar feature-based cascade classifiers**  [Ref](https://docs.opencv.org/3.4/dc/d88/tutorial_traincascade.html)<br>
 [Rastogi et al. 2019](https://link.springer.com/content/pdf/10.1007/s12206-019-0339-5.pdf)<br>
