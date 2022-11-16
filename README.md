@@ -10,10 +10,8 @@
 <img width="814" alt="Screenshot 2022-11-15 at 16 15 35" src="https://user-images.githubusercontent.com/43514418/201982388-579780a4-e10d-416e-af94-c7f476c4d3f2.png"><br/>
 Total params: 79,826,048 <br/>
 Trainable params: 79,772,928 <br/>
-Non-trainable params: 53,120 <br/>
-<br> 
-<br> 
-**Identifier Network Architecture**   
+Non-trainable params: 53,120 <br/><br> 
+**Identifier Network Architecture**  <br/>  
 <img width="1088" alt="Screenshot 2022-11-16 at 12 04 17" src="https://user-images.githubusercontent.com/43514418/202164466-8d6f7cce-e85a-4ef6-b6a6-acf08f4d46dd.png"><br/>
 # Generating Dataset
 Original images from dataset
