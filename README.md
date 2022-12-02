@@ -54,7 +54,9 @@ Average Intersection over Union for Blur Detection:  **0.917568**    <br/>
 <img width="846" alt="Screenshot 2022-10-21 at 12 14 16" src="https://user-images.githubusercontent.com/43514418/197180724-c03efb3f-2497-47f2-b11a-52c56a3cb777.png"> <br>
 Implementing Class Activation Map 
 To identify the region a CNN is looking at while classifying an image [Ref](https://towardsdatascience.com/class-activation-mapping-using-transfer-learning-of-resnet50-e8ca7cfd657e)
-<img width="825" alt="Screenshot 2022-10-21 at 12 48 41" src="https://user-images.githubusercontent.com/43514418/197180570-275bac85-bc31-423f-bce1-fb68a74f86a8.png">
+<img width="825" alt="Screenshot 2022-10-21 at 12 48 41" src="https://user-images.githubusercontent.com/43514418/197180570-275bac85-bc31-423f-bce1-fb68a74f86a8.png"> <br>
+<img width="447" alt="Screenshot 2022-12-02 at 14 23 12" src="https://user-images.githubusercontent.com/43514418/205302551-a7227df7-1858-4da3-952d-a538585c86b2.png">
+
 
 # Google Street View Images Blur Detection Web Application
 To access Web Application repository and installation instruction click [here](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection-Web-Application) 
