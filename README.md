@@ -53,7 +53,8 @@ Average Intersection over Union for Blur Detection:  **0.917568**    <br/>
 # Revised Street View Blure Detection dataset using object detection algorithm
 **Haar feature-based cascade classifiers**  [Ref](https://docs.opencv.org/3.4/dc/d88/tutorial_traincascade.html)<br>
 [Rastogi et al. 2019](https://link.springer.com/content/pdf/10.1007/s12206-019-0339-5.pdf)<br>
-<img width="846" alt="Screenshot 2022-10-21 at 12 14 16" src="https://user-images.githubusercontent.com/43514418/197180724-c03efb3f-2497-47f2-b11a-52c56a3cb777.png"> <br>
+![fig-SVIBdataset-total](https://user-images.githubusercontent.com/43514418/206143518-4144e8f4-425e-417f-adc5-5d4fb64c6eb3.jpg)
+ <br>
 Implementing Class Activation Map 
 To identify the region a CNN is looking at while classifying an image [Ref](https://towardsdatascience.com/class-activation-mapping-using-transfer-learning-of-resnet50-e8ca7cfd657e)
 <img width="825" alt="Screenshot 2022-10-21 at 12 48 41" src="https://user-images.githubusercontent.com/43514418/197180570-275bac85-bc31-423f-bce1-fb68a74f86a8.png"> <br>
