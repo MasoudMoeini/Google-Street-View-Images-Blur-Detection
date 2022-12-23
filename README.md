@@ -72,8 +72,10 @@ To access Web Application repository and installation instruction click [here](h
 # Resources
 - [Keras - Computer Vision](https://keras.io/examples/vision/)
 - [ResNet50](https://machinelearningknowledge.ai/keras-implementation-of-resnet-50-architecture-from-scratch/)
+- [GoogLeNet](https://www.kaggle.com/code/luckscylla/googlenet-implementation/script)
 - [UCF Google Street View Images dataset](https://www.crcv.ucf.edu/data/GMCP_Geolocalization/)
 - [Flask Tutorial](https://roytuts.com/upload-and-display-image-using-python-flask/)
+
 
 
 
