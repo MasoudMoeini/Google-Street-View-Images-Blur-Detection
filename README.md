@@ -63,8 +63,6 @@ Average Intersection over Union for Blur Detection:  **0.917568**    <br/>
 <img width="525" alt="Screenshot 2022-10-07 at 12 25 12" src="https://user-images.githubusercontent.com/43514418/194532958-9a6d0cb1-5455-499d-9dab-cb1846246691.png"><br>
 <img width="884" alt="Screenshot 2022-11-15 at 18 07 26" src="https://user-images.githubusercontent.com/43514418/201982509-7d04eca2-2f7e-48c0-be0d-4dfccab851f0.png"><br>
 <img width="447" alt="Screenshot 2022-12-02 at 14 23 12" src="https://user-images.githubusercontent.com/43514418/205302551-a7227df7-1858-4da3-952d-a538585c86b2.png"><br>
-![fig-SVIBdataset-total](https://user-images.githubusercontent.com/43514418/206143518-4144e8f4-425e-417f-adc5-5d4fb64c6eb3.jpg)
- <br>
 Implementing Class Activation Map 
 To identify the region a CNN is looking at while classifying an image [Ref](https://towardsdatascience.com/class-activation-mapping-using-transfer-learning-of-resnet50-e8ca7cfd657e)
 <img width="825" alt="Screenshot 2022-10-21 at 12 48 41" src="https://user-images.githubusercontent.com/43514418/197180570-275bac85-bc31-423f-bce1-fb68a74f86a8.png"> <br>
