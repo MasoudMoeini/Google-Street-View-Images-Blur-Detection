@@ -28,6 +28,11 @@ Applying GaussianBlur filter to original images, randomly for different regions 
 <img width="1088" alt="Screenshot 2022-06-16 at 22 29 26" src="https://user-images.githubusercontent.com/43514418/174158430-d5d81c7e-192b-48cc-88a4-70eabdca234b.png"> <br/>
 Generating ground-truth for blurred images 
 <img width="1085" alt="Screenshot 2022-06-16 at 22 29 43" src="https://user-images.githubusercontent.com/43514418/174158476-56d6c248-0d27-413e-85b4-0b109895f396.png"><br>
+# Revised Street View Blure Detection dataset using object detection algorithm
+**Haar feature-based cascade classifiers**  [Ref](https://docs.opencv.org/3.4/dc/d88/tutorial_traincascade.html)<br>
+[Rastogi et al. 2019](https://link.springer.com/content/pdf/10.1007/s12206-019-0339-5.pdf)<br>
+![fig-SVIBdataset-total](https://user-images.githubusercontent.com/43514418/209407525-975ae6ce-bda8-483d-a777-fa3e9f65f967.jpg)
+<br>
 # Training and Validation
 The model was trained and validated by using 7000 input images. <br/>
 80% of the input photos were used for training, and 20% were utilized for validation. <br>
@@ -58,9 +63,6 @@ Average Intersection over Union for Blur Detection:  **0.917568**    <br/>
 <img width="525" alt="Screenshot 2022-10-07 at 12 25 12" src="https://user-images.githubusercontent.com/43514418/194532958-9a6d0cb1-5455-499d-9dab-cb1846246691.png"><br>
 <img width="884" alt="Screenshot 2022-11-15 at 18 07 26" src="https://user-images.githubusercontent.com/43514418/201982509-7d04eca2-2f7e-48c0-be0d-4dfccab851f0.png"><br>
 <img width="447" alt="Screenshot 2022-12-02 at 14 23 12" src="https://user-images.githubusercontent.com/43514418/205302551-a7227df7-1858-4da3-952d-a538585c86b2.png"><br>
-# Revised Street View Blure Detection dataset using object detection algorithm
-**Haar feature-based cascade classifiers**  [Ref](https://docs.opencv.org/3.4/dc/d88/tutorial_traincascade.html)<br>
-[Rastogi et al. 2019](https://link.springer.com/content/pdf/10.1007/s12206-019-0339-5.pdf)<br>
 ![fig-SVIBdataset-total](https://user-images.githubusercontent.com/43514418/206143518-4144e8f4-425e-417f-adc5-5d4fb64c6eb3.jpg)
  <br>
 Implementing Class Activation Map 
