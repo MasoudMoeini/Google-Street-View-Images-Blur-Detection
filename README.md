@@ -10,7 +10,7 @@ Click-> [SBDNet-GoogLeNet](https://github.com/MasoudMoeini/Google-Street-View-Im
 - Training and Evaluation <br/>
 - Using Implemented model in Production and Real World Web Application. [Click](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection-Web-Application) <br/><br/>  
 **SBDNet Network Architecture using ResNet50 as a Classifier network**  <br/> 
-<img width="814" alt="Screenshot 2022-11-15 at 16 15 35" src="https://user-images.githubusercontent.com/43514418/201982388-579780a4-e10d-416e-af94-c7f476c4d3f2.png"><br/>
+![fig-sbdn-arc-svbi](https://user-images.githubusercontent.com/43514418/209338501-7185861a-a9cd-46ec-b63b-e5ca71062068.jpg)<br/>
 Total params: 93,579,837 <br/>
 Trainable params: 93,526,717 <br/>
 Non-trainable params: 53,120 <br/><br/>   
