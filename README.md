@@ -8,14 +8,10 @@
 Click-> [SBDNet-ResNet50](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection/blob/main/SBDN_ResNet_Exp_SVBI.ipynb)<br/>
 Click-> [SBDNet-GoogLeNet](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection/blob/main/SBDN_GoogleNet_Exp_SVBI.ipynb)<br/>
 - Training and Evaluation. <br/>
-Click->[SBDNet-ResNet50-Experiment-1](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection/blob/main/SBDN_ResNet_Exp1_CHUK_DUT_SZU.ipynb)
-<br/>
-Click->[SBDNet-GoogLeNet-Experiment-1](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection/blob/main/SBDN_GoogleNet_Exp1_CHUK_DUT_SZU.ipynb)
-<br/>
-Click->[SBDNet-ResNet50-Experiment-2](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection/blob/main/SBDN_ResNet_Exp2_CHUK_DUT_SZU.ipynb)
-<br/>
-Click->[SBDNet-GoogLeNet-Experiment-2](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection/blob/main/SBDN_GoogleNet_Exp2_CHUK_DUT_SZU.ipynb)
-<br/>
+Click-> [SBDNet-ResNet50-Experiment-1](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection/blob/main/SBDN_ResNet_Exp1_CHUK_DUT_SZU.ipynb)<br/>
+Click-> [SBDNet-GoogLeNet-Experiment-1](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection/blob/main/SBDN_GoogleNet_Exp1_CHUK_DUT_SZU.ipynb)<br/>
+Click-> [SBDNet-ResNet50-Experiment-2](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection/blob/main/SBDN_ResNet_Exp2_CHUK_DUT_SZU.ipynb)<br/>
+Click-> [SBDNet-GoogLeNet-Experiment-2](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection/blob/main/SBDN_GoogleNet_Exp2_CHUK_DUT_SZU.ipynb)<br/>
 - Using Implemented model in Production and Real World Web Application. [Click](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection-Web-Application) <br/><br/>  
 **SBDNet Network Architecture using ResNet50 as a Classifier network**  <br/> 
 ![fig-sbdn-arc-svbi](https://user-images.githubusercontent.com/43514418/209338501-7185861a-a9cd-46ec-b63b-e5ca71062068.jpg)<br/>
