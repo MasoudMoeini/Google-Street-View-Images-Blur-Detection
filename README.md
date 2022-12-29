@@ -1,6 +1,7 @@
 # Google Street View Images Blur Detection
 **Dataset:**  <br/>
-[UCF Google Street View dataset](https://www.crcv.ucf.edu/data/GMCP_Geolocalization/) contains 62,058 high quality Google Street View images, 10000 images is used to train and evaluate "Street View Images Blur Dtection Network"<br/>
+[UCF Google Street View dataset](https://www.crcv.ucf.edu/data/GMCP_Geolocalization/) contains 62,058 high quality Google Street View images.<br>
+5000 images from UCF is used to create Street View Blur Image Dataset(SVBI). This repository presents "Street-view images Blur Dtector Network (SBDNet) uses SVBI dataset for training and evaluation.<br/>
 <br>
 **Milestones:**  
 - Generating Street View Blur Image Dataset (SVBI). [Click](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection/blob/main/SVIB_dataset_generating_with_object_detection.ipynb)<br/>
