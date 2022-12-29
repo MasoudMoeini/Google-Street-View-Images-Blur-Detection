@@ -1,14 +1,15 @@
 # Google Street View Images Blur Detection
 **Dataset:**  <br/>
 [UCF Google Street View dataset](https://www.crcv.ucf.edu/data/GMCP_Geolocalization/) contains 62,058 high quality Google Street View images.<br>
-5000 images from UCF is used to create Street View Blur Image Dataset(SVBI). This repository presents "Street-view images Blur Dtector Network (SBDNet) uses SVBI dataset for training and evaluation.<br/>
+5000 images from UCF is used for creating of Street View Blur Image Dataset (SVBI).<br>
+This repository presents "Street-view images Blur Detection Network (SBDNet) using SVBI dataset for training and evaluation.<br/>
 <br>
 **Milestones:**  
 - Generating Street View Blur Image Dataset (SVBI). [Click](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection/blob/main/SVIB_dataset_generating_with_object_detection.ipynb)<br/>
 - Building Computer Vison Model for Street View Images Classification and Blurred Regions Segmentation using two architectures (ResNet50, GoogLeNet).<br/>
 Click-> [SBDNet-ResNet50](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection/blob/main/SBDN_ResNet_Exp_SVBI.ipynb)<br/>
 Click-> [SBDNet-GoogLeNet](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection/blob/main/SBDN_GoogleNet_Exp_SVBI.ipynb)<br/>
-- Training and Evaluation. <br/>
+- Training and Evaluation using public blur detection datasets. <br/>
 Click-> [SBDNet-ResNet50-Experiment-1](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection/blob/main/SBDN_ResNet_Exp1_CHUK_DUT_SZU.ipynb)<br/>
 Click-> [SBDNet-GoogLeNet-Experiment-1](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection/blob/main/SBDN_GoogleNet_Exp1_CHUK_DUT_SZU.ipynb)<br/>
 Click-> [SBDNet-ResNet50-Experiment-2](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection/blob/main/SBDN_ResNet_Exp2_CHUK_DUT_SZU.ipynb)<br/>
