@@ -6,7 +6,7 @@ This repository presents "Street-view images Blur Detection Network (SBDNet) usi
 <br>
 **Milestones:**  
 - Generating Street View Blur Image Dataset (SVBI). [Click](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection/blob/main/SVIB_dataset_generating_with_object_detection.ipynb)<br/>
-- Building Computer Vison Model for Street View Images Classification and Blurred Regions Segmentation using two architectures (ResNet50, GoogLeNet).<br/>
+- Building Computer Vison Model for Street View Images Classification and Blurred Regions Segmentation using two architectures (Arc.1 using ResNet50, Arc.2 using GoogLeNet).<br/>
 Click-> [SBDNet-ResNet50](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection/blob/main/SBDN_ResNet_Exp_SVBI.ipynb)<br/>
 Click-> [SBDNet-GoogLeNet](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection/blob/main/SBDN_GoogleNet_Exp_SVBI.ipynb)<br/>
 - Training and Evaluation using public blur detection datasets. <br/>
