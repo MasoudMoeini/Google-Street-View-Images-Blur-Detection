@@ -61,7 +61,7 @@ Average Intersection over Union for Blur Detection:  **0.917568**    <br/>
 <img width="1057" alt="Screenshot 2022-07-09 at 22 46 40" src="https://user-images.githubusercontent.com/43514418/178122277-c4781495-99f1-43ce-ad1c-ac056b8814c0.png"><br>
 <img width="1057" alt="Screenshot 2022-07-09 at 22 47 33" src="https://user-images.githubusercontent.com/43514418/178122297-165ad5e2-3d13-4219-9888-b9ed585b28c5.png"><br>
 <img width="1056" alt="Screenshot 2022-07-09 at 22 41 49" src="https://user-images.githubusercontent.com/43514418/178122332-40fd8058-f555-4c7d-be18-1f5dc4cfdb95.png"><br/>
-Implementing Class Activation Map-[CAM](https://towardsdatascience.com/class-activation-mapping-using-transfer-learning-of-resnet50-e8ca7cfd657e) 
+- Implementing Class Activation Map-[CAM](https://towardsdatascience.com/class-activation-mapping-using-transfer-learning-of-resnet50-e8ca7cfd657e) 
 To identify the specific regions that Classifier network is looking at while classifying an input images <br/>
 ![fig-final-demo](https://user-images.githubusercontent.com/43514418/210445743-229b755b-3de7-4877-874e-b1bd9c01ba4f.jpg)<br/>
 # Comparison with other State of Art Methods(CHUK,DUT,SZU-BD) based-on Shi et al dataset
