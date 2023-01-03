@@ -66,9 +66,8 @@ To identify the region a CNN is looking at while classifying an image [Ref](http
 <img width="825" alt="Screenshot 2022-10-21 at 12 48 41" src="https://user-images.githubusercontent.com/43514418/197180570-275bac85-bc31-423f-bce1-fb68a74f86a8.png"> <br>
 # Comparison with other State of Art Methods(CHUK,DUT,SZU-BD) based-on Shi et al dataset
 ![fig-Comparison](https://user-images.githubusercontent.com/43514418/209339564-c94c0964-19b3-4a34-aadd-ab4f5ed39711.jpg)<br/>
-<img width="388" alt="Screenshot 2022-10-07 at 12 01 03" src="https://user-images.githubusercontent.com/43514418/194530188-ea26f588-15aa-4ca4-bd0b-9f7aac33ab2b.png"><br/>
-Based on Resaults from [Sun et al.](https://www.sciencedirect.com/science/article/abs/pii/S0925231220310560)<br/>
 <img width="733" alt="Screenshot 2023-01-03 at 14 31 49" src="https://user-images.githubusercontent.com/43514418/210367091-31f5c9ad-0b06-432d-8536-c1cc0947ab80.png"><br/>
+Based on Results from [Sun et al.](https://www.sciencedirect.com/science/article/abs/pii/S0925231220310560)<br/>
 <img width="458" alt="Screenshot 2023-01-03 at 14 31 37" src="https://user-images.githubusercontent.com/43514418/210367805-8d333428-a8f9-4f49-af9a-9db85a177ae5.png"><br/>
 # Google Street View Images Blur Detection Web Application
 To access Web Application repository and installation instruction click [here](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection-Web-Application) 
