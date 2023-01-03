@@ -65,11 +65,11 @@ Average Intersection over Union for Blur Detection:  **0.917568**    <br/>
 ![fig-Comparison](https://user-images.githubusercontent.com/43514418/209339564-c94c0964-19b3-4a34-aadd-ab4f5ed39711.jpg)<br/>
 <img width="388" alt="Screenshot 2022-10-07 at 12 01 03" src="https://user-images.githubusercontent.com/43514418/194530188-ea26f588-15aa-4ca4-bd0b-9f7aac33ab2b.png"><br/>
 <img width="361" alt="Screenshot 2022-10-07 at 12 01 19" src="https://user-images.githubusercontent.com/43514418/194530484-feb13a31-7ec2-419d-a0fe-b17ddf0dd7f9.png"><br/>
-<img width="811" alt="Screenshot 2022-10-07 at 12 09 04" src="https://user-images.githubusercontent.com/43514418/194530588-6220cbc7-8520-420f-99a7-1fea4cf6a79b.png"><br>
-<img width="525" alt="Screenshot 2022-10-07 at 12 25 12" src="https://user-images.githubusercontent.com/43514418/194532958-9a6d0cb1-5455-499d-9dab-cb1846246691.png"><br>
+<img width="811" alt="Screenshot 2022-10-07 at 12 09 04" src="https://user-images.githubusercontent.com/43514418/194530588-6220cbc7-8520-420f-99a7-1fea4cf6a79b.png"><br/>
+Based on Resaults from [Sun et al.](https://www.sciencedirect.com/science/article/abs/pii/S0925231220310560)
+<img width="733" alt="Screenshot 2023-01-03 at 14 31 49" src="https://user-images.githubusercontent.com/43514418/210367091-31f5c9ad-0b06-432d-8536-c1cc0947ab80.png"><br/>
+<img width="458" alt="Screenshot 2023-01-03 at 14 31 37" src="https://user-images.githubusercontent.com/43514418/210367805-8d333428-a8f9-4f49-af9a-9db85a177ae5.png"><br/>
 
-<img width="733" alt="Screenshot 2023-01-03 at 14 31 49" src="https://user-images.githubusercontent.com/43514418/210367091-31f5c9ad-0b06-432d-8536-c1cc0947ab80.png"><br>
-<img width="733" alt="Screenshot 2023-01-03 at 14 31 49" src="https://user-images.githubusercontent.com/43514418/210367333-b4517d50-0a41-405e-b905-5b1969abc1e9.png"><br>
 Implementing Class Activation Map 
 To identify the region a CNN is looking at while classifying an image [Ref](https://towardsdatascience.com/class-activation-mapping-using-transfer-learning-of-resnet50-e8ca7cfd657e)
 <img width="825" alt="Screenshot 2022-10-21 at 12 48 41" src="https://user-images.githubusercontent.com/43514418/197180570-275bac85-bc31-423f-bce1-fb68a74f86a8.png"> <br>
