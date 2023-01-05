@@ -47,8 +47,7 @@ The model was trained and validated by using 2000 input images.<br/>
 # Evaluation of Model with 1000 Images
 The model was evaluated by using 1000 input images for classification and blur detection <br/>
 - Confusion Matrix (Classification) <br/>
-![Screenshot 2023-01-05 at 12 56 13](https://user-images.githubusercontent.com/43514418/210775582-743374e9-15eb-4561-8da1-07d476bef1ee.png)
-<br/>
+![Screenshot 2023-01-05 at 12 56 13](https://user-images.githubusercontent.com/43514418/210777661-bbf82311-a85b-43b0-948a-d561b50a1999.png)<br/>
 - Intersection over Union (IoU)(Blur Map estimation) <br/>
 Average Intersection over Union for Blur Detection: 0.9334 <br/> 
 - Input images <br/> 
