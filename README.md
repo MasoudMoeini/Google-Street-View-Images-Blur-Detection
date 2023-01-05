@@ -44,14 +44,13 @@ Generating ground-truth for blurred images
 The model was trained and validated by using 7000 input images. <br/>
 80% of the input photos were used for training, and 20% were utilized for validation. <br>
 <br>
-<img width="551" alt="Screenshot 2022-07-08 at 21 15 52" src="https://user-images.githubusercontent.com/43514418/178056585-62415625-e395-4424-aec4-3c4e9558fe66.png"><br/>
-<img width="734" alt="Screenshot 2022-12-03 at 01 28 08" src="https://user-images.githubusercontent.com/43514418/205412878-a4471512-1438-4992-963b-c11d0d49b46a.png">
-<br/>
+![Screenshot 2023-01-05 at 12 56 34](https://user-images.githubusercontent.com/43514418/210775488-03017e21-fcad-4c35-8622-c4e38cf7689a.png <br/>
 # Evaluation of Model with 1000 Images
 - Confusion Matrix (Classification) <br/>
-<img width="431" alt="Screenshot 2022-07-08 at 19 16 31" src="https://user-images.githubusercontent.com/43514418/178040259-f96dd881-613e-470a-a2b3-9fd925dca5e7.png"> <br/>
+![Screenshot 2023-01-05 at 12 56 13](https://user-images.githubusercontent.com/43514418/210775582-743374e9-15eb-4561-8da1-07d476bef1ee.png)
+<br/>
 - Intersection over Union -IoU- (Segmentation) <br/>
-Average Intersection over Union for Blur Detection:  **0.917568**    <br/> 
+Average Intersection over Union for Blur Detection:  **0.9334**    <br/> 
 - Input images <br/> 
 <img width="1057" alt="Screenshot 2022-07-09 at 22 43 22" src="https://user-images.githubusercontent.com/43514418/178122159-69beb9bd-4126-4cb6-8786-ceb033795499.png"> <br/> 
 - Predicted Labels and Classification results: Predicted Class/True Class (0.0 bur, 1.0 no blur) <br/>
