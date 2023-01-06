@@ -72,7 +72,7 @@ Comparison with other methods on CHUK dataset based on collected results from [S
 <img width="458" alt="Screenshot 2023-01-03 at 14 31 37" src="https://user-images.githubusercontent.com/43514418/210367805-8d333428-a8f9-4f49-af9a-9db85a177ae5.png"><br/>
 # Google Street View Images Blur Detection Web Application
 To access Web Application repository and installation instruction click [here](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection-Web-Application)<br/> 
-![Screenshot 2023-01-06 at 12 16 14](https://user-images.githubusercontent.com/43514418/211001908-2e6c6e56-3482-4009-899f-da59bad64807.png)
+![Screenshot 2023-01-06 at 12 31 40](https://user-images.githubusercontent.com/43514418/211004425-1869568e-ed1e-4c34-874b-dbc0cf61529c.png)
 <br>
 ![Screenshot 2023-01-06 at 12 29 21](https://user-images.githubusercontent.com/43514418/211004102-de3f269f-82e5-4e7a-9898-263c2b9350bb.png)
 <br>
