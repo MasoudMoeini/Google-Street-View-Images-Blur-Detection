@@ -74,7 +74,7 @@ Comparison with other methods on CHUK dataset based on collected results from [S
 To access Web Application repository and installation instruction click [here](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection-Web-Application)<br/> 
 ![Screenshot 2023-01-06 at 12 36 49](https://user-images.githubusercontent.com/43514418/211005132-29ae9129-0777-40ee-988e-ec473d992f16.png)
 <br>
-![Screenshot 2023-01-06 at 12 35 12](https://user-images.githubusercontent.com/43514418/211004932-f8b2fd05-37b3-4e0d-b8f4-a7baf4299527.png)
+![Screenshot 2023-01-06 at 12 38 15](https://user-images.githubusercontent.com/43514418/211005330-6c9a355a-7da8-42ca-89b8-055160776e35.png)
 <br>
 # Resources
 - [Keras - Computer Vision](https://keras.io/examples/vision/)
