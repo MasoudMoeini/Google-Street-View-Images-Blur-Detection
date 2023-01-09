@@ -18,8 +18,8 @@ Click-> [SBDNet-GoogLeNet-Experiment-1-Precision-Recall-Comparison](https://gith
 - Using Implemented model in Production and Real World Web Application. [Click](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection-Web-Application) <br/><br/>  
 **SBDNet Network Architecture using ResNet50 as a Classifier network**  <br/> 
 ![fig-sbdn-arc-svbi](https://user-images.githubusercontent.com/43514418/211110707-7aa6c9fe-8562-483a-a65a-c38d3882d270.jpg)<br/>
-Total params: 93,579,837 <br/>
-Trainable params: 93,526,717 <br/>
+Total params: 76,736,290 <br/>
+Trainable params: 76,683,170 <br/>
 Non-trainable params: 53,120 <br/><br/>   
 **SBDNet Network Architecture using GoogLeNet as a Classifier network**  <br/> 
 ![fig-sbdnet-googlenet](https://user-images.githubusercontent.com/43514418/209336368-69c4180a-a3df-42b9-b80d-55f425bf3abc.jpg)
