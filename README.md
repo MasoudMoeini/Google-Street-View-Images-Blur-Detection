@@ -65,6 +65,9 @@ To identify the specific regions that Classifier network is looking at while cla
 ![fig-final-demo](https://user-images.githubusercontent.com/43514418/210445743-229b755b-3de7-4877-874e-b1bd9c01ba4f.jpg)<br/>
 # Comparison with other State of Art Methods(CHUK,DUT,SZU-BD) based-on Shi et al dataset
 ![fig-Comparison](https://user-images.githubusercontent.com/43514418/209339564-c94c0964-19b3-4a34-aadd-ab4f5ed39711.jpg)<br/>
+Total params: 76,736,290
+Trainable params: 76,683,170
+Non-trainable params: 53,120
 ![fig-sbdnet-eval-chuk](https://user-images.githubusercontent.com/43514418/210374952-690efe99-ba38-4078-886a-fdb54c72f6f1.jpg)<br/>
 SBDNet best evaluation results on CHUK,DUT,SZU-BD datasets <br/>
 <img width="733" alt="Screenshot 2023-01-03 at 14 31 49" src="https://user-images.githubusercontent.com/43514418/210367091-31f5c9ad-0b06-432d-8536-c1cc0947ab80.png"><br/>
