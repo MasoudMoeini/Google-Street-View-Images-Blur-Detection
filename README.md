@@ -18,16 +18,14 @@ Click-> [SBDNet-GoogLeNet-Experiment-1-Precision-Recall-Comparison](https://gith
 - Using Implemented model in Production and Real World Web Application. [Click](https://github.com/MasoudMoeini/Google-Street-View-Images-Blur-Detection-Web-Application) <br/><br/>  
 **SBDNet Network Architecture using ResNet50 as a Classifier network**  <br/> 
 ![fig-sbdn-arc-svbi](https://user-images.githubusercontent.com/43514418/211110707-7aa6c9fe-8562-483a-a65a-c38d3882d270.jpg)<br/>
-Total params: 93,579,837 <br/>
-Trainable params: 93,526,717 <br/>
+Trainable params: 93.5 Millions <br/>
 Non-trainable params: 53,120 <br/><br/>   
 **SBDNet Network Architecture using GoogLeNet as a Classifier network**  <br/> 
 ![fig-sbdnet-googlenet](https://user-images.githubusercontent.com/43514418/209336368-69c4180a-a3df-42b9-b80d-55f425bf3abc.jpg)
-Total params: 19,439,381 <br/>
-Trainable params: 19,438,869 <br/>
+Trainable params: 19.4 Millions<br/>
 Non-trainable params: 512 <br/><br> 
 **Identifier Network Architecture**  <br/>  
-<img width="1088" alt="Screenshot 2022-11-16 at 12 04 17" src="https://user-images.githubusercontent.com/43514418/202164466-8d6f7cce-e85a-4ef6-b6a6-acf08f4d46dd.png"><br/>
+![fig-sbdn-identifier](https://user-images.githubusercontent.com/43514418/221049222-182cf8fc-37ac-4b14-a9f2-8e64e89ccc02.jpg)<br/>
 # Generating Dataset
 Original images from dataset
 <img width="1097" alt="Screenshot 2022-06-16 at 22 29 09" src="https://user-images.githubusercontent.com/43514418/174158395-51cd6eab-512e-4f54-b413-b1e7365fcc88.png"> <br/>
@@ -65,8 +63,7 @@ To identify the specific regions that Classifier network is looking at while cla
 ![fig-final-demo](https://user-images.githubusercontent.com/43514418/210445743-229b755b-3de7-4877-874e-b1bd9c01ba4f.jpg)<br/>
 # Comparison with other State of Art Methods(CHUK,DUT,SZU-BD) based-on Shi et al dataset
 ![fig-Comparison](https://user-images.githubusercontent.com/43514418/209339564-c94c0964-19b3-4a34-aadd-ab4f5ed39711.jpg)<br/>
-Total params: 76,736,290<br/>
-Trainable params: 76,683,170<br/>
+Trainable params: 76.6 Millions<br/>
 Non-trainable params: 53,120<br/>
 ![fig-sbdnet-eval-chuk](https://user-images.githubusercontent.com/43514418/210374952-690efe99-ba38-4078-886a-fdb54c72f6f1.jpg)<br/>
 SBDNet best evaluation results on CHUK,DUT,SZU-BD datasets <br/>
